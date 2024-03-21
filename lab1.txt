@@ -1,1 +1,2 @@
 hello welcome to github
+hello git and git hub
